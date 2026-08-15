@@ -1,6 +1,8 @@
+![saranchademo](sarancha_image.gif)
+
+
 # sarancha
 the locust-like log wiper (finds everything log-related and destroys it and then deletes itself)
-
 
 *By using this code, you agree that the author is not responsible for any actions or consequences resulting from your use of it, including, but not limited to, data loss, system failures, or any other adverse effects.*
 
